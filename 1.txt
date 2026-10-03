@@ -1,0 +1,1 @@
+postgresql://tripmate_db_ie0r_user:H9lVEVxli86JAvkGu2m8IWrMmwW9CTmK@dpg-db0942dg1s2s73d3870g-a.singapore-postgres.render.com/tripmate_db_ie0r
